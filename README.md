@@ -42,3 +42,24 @@ Este proyecto fue desarrollado para facilitar la conversión de divisas en tiemp
 4. El programa mostrará el monto convertido utilizando la tasa de cambio actual.
 
 ## Estructura del Proyecto
+currency-converter/ ├── src/ │ ├── Main.java # Clase principal para ejecutar la aplicación │ ├── ApiHandler.java # Clase para gestionar las solicitudes a la API │ ├── Converter.java # Lógica de conversión de divisas │ └── utilities/ # Utilidades y funciones auxiliares └── README.md # Este archivo
+
+## Contribuciones
+Si deseas contribuir a este proyecto:
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
+3. Haz commit de tus cambios (`git commit -m 'Añadir nueva funcionalidad'`).
+4. Envía un pull request.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este formato cubre los aspectos principales de un README.md y te permitirá describir las características y el uso del proyecto de forma clara. ¡Espero que te sea útil!
+
+
+
+
+
+
+
+
+
